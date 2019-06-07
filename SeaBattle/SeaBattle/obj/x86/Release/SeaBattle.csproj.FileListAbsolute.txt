@@ -1,0 +1,8 @@
+D:\Моё\Документы\Visual C#\Курсовая\bin\Release\Курсовая.exe
+D:\Моё\Документы\Visual C#\Курсовая\bin\Release\Курсовая.pdb
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.Form1.resources
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.Form2.resources
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.Properties.Resources.resources
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.csproj.GenerateResource.Cache
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.exe
+D:\Моё\Документы\Visual C#\Курсовая\obj\x86\Release\Курсовая.pdb
